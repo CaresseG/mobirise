@@ -35,6 +35,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 #menu-4 .mbr-brand__name {
   font-size: 16px;
 }
@@ -50,14 +59,9 @@
 #header3-q H3 {
   text-align: center;
 }
-#msg-box4-18 .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box4-18 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-18 .mbr-article {
-  color: #ffffff;
+#image2-r SMALL {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #c1c1c1;
 }
 #msg-box3-1e .mbr-header .mbr-header__text {
   text-align: center;
@@ -72,10 +76,83 @@
 }
 #msg-box3-1e .mbr-article {
   font-family: 'Roboto Condensed', sans-serif;
+  color: #c1c1c1;
+  font-size: 14px;
+  text-align: right;
+}
+#image2-v SMALL {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #c1c1c1;
+}
+#image2-w SMALL {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #c1c1c1;
+}
+#msg-box4-18 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-18 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-18 .mbr-article {
+  color: #ffffff;
+}
+#msg-box3-1h .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1h .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1h .mbr-article P {
+  text-align: center;
+  color: #c1c1c1;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box3-1h .mbr-article {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #c1c1c1;
+  font-size: 14px;
+  text-align: right;
+}
+#msg-box3-1i .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1i .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1i .mbr-article P {
+  text-align: center;
+  color: #c1c1c1;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box3-1i .mbr-article {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #c1c1c1;
+  font-size: 14px;
+  text-align: right;
+}
+#msg-box3-1g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1g .mbr-article P {
+  text-align: center;
+  color: #000000;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box3-1g .mbr-article {
+  font-family: 'Roboto Condensed', sans-serif;
   color: #000000;
   font-size: 12px;
   text-align: center;
 }
+
+
+
+
+
 
 
 
@@ -98,8 +175,8 @@
 }
 #image2-i SMALL {
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 12px;
-  color: #cccccc;
+  font-size: 14px;
+  color: #c1c1c1;
 }
 #msg-box4-k .mbr-header__text {
   color: #ffffff;
@@ -114,7 +191,45 @@
   color: #c1c1c1;
   text-align: left;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 12px;
+  font-size: 14px;
+}
+#msg-box3-1j .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1j .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1j .mbr-article P {
+  text-align: center;
+  color: #c1c1c1;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box3-1j .mbr-article {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #c1c1c1;
+  font-size: 14px;
+  text-align: right;
+}
+#image2-m SMALL {
+  color: #c1c1c1;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box3-1k .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1k .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1k .mbr-article P {
+  text-align: center;
+  color: #c1c1c1;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box3-1k .mbr-article {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #c1c1c1;
+  font-size: 14px;
+  text-align: right;
 }
 #msg-box3-1d .mbr-header .mbr-header__text {
   text-align: center;
