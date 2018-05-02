@@ -4717,3 +4717,23 @@ body {
 .cid-qGZGYzfaYQ .navbar-collapse {
   flex-basis: auto;
 }
+.cid-qQSCHL59vQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qQSCHL59vQ h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qQSCHL59vQ p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qQSCHL59vQ .card-box {
+  padding-top: 2rem;
+}
+.cid-qQSCHL59vQ .card-wrapper {
+  height: 100%;
+}
